@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @DannyCasselx
 - 👀 I’m interested in Automation & API Integrations
 - 🌱 I’m currently learning Python, Power Automate Suite, GitHub
-- 💞️ I’m looking to collaborate on NOTHING 🐺
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can juggle!
 
 <!---
 DannyCasselx/DannyCasselx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
